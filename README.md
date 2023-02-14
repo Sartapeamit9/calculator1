@@ -7,7 +7,7 @@ public class Calculator
 public static void main(String[] args)
             {
 	Scanner reader=new Scanner(System.in);
-	System.out.println("############################CODE FOR CALCULATOR#############################");
+	System.out.println("############################ CODE FOR CALCULATOR #############################");
   System.out.println("To perform operation please enter two Numbers\n\n::);
   
 	double frist=reader.nextDouble();
